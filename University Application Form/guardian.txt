@@ -1,0 +1,28 @@
+Guardian's Name:Abbas Ali Abid
+Guardian's CNIC Number:3520226494205
+Guardian's Mobile Number:3015654488
+Guardian's Occupation:Retired
+Guardian's Monthly Income:50000
+Relationship with Guardian:Father
+
+Guardian's Name:aa
+Guardian's CNIC Number:35202
+Guardian's Mobile Number:3031
+Guardian's Occupation:0301
+Guardian's Monthly Income:50
+Relationship with Guardian:f
+
+Guardian's Name:abbas ali 
+Guardian's CNIC Number:3520226494205
+Guardian's Mobile Number:3015654488
+Guardian's Occupation:retired
+Guardian's Monthly Income:50000
+Relationship with Guardian:father
+
+Guardian's Name:Abbas Ali Abid
+Guardian's CNIC Number:3520226494205
+Guardian's Mobile Number:3015654488
+Guardian's Occupation:Retired
+Guardian's Monthly Income:50000
+Relationship with Guardian:Father
+

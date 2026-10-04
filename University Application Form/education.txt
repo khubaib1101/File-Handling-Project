@@ -1,0 +1,7 @@
+{'Qualification': 'Matric', 'Board/University': 'lahore', 'Institute Name': 'UGI', 'Year of Passing': 2023, 'Total Marks': 1100, 'Obtained Marks': 1016, 'Percentage': 92.36363636363636, 'Grade': 'A+', 'Roll Number': '54000'}
+{'Qualification': 'inter', 'Board/University': 'BISE', 'Institute Name': 'GCU', 'Year of Passing': 2025, 'Total Marks': 1200, 'Obtained Marks': 910, 'Percentage': 75.83333333333333, 'Grade': 'A', 'Roll Number': '6100'}
+
+{'Qualification': 'm', 'Board/University': 'ugi', 'Institute Name': 'ugi', 'Year of Passing': 2023, 'Total Marks': 1100, 'Obtained Marks': 1016, 'Percentage': 92.36363636363636, 'Grade': 'a', 'Roll Number': '5400'}
+
+{'Qualification': 'matric', 'Board/University': 'BISE', 'Institute Name': 'UGI', 'Year of Passing': 2023, 'Total Marks': 1100, 'Obtained Marks': 1016, 'Percentage': 92.36363636363636, 'Grade': 'A+', 'Roll Number': '54000'}
+

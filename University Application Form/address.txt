@@ -1,0 +1,42 @@
+Permanent Address:597 Huma Block Allama 
+Area/Colony:Huma block
+City:Lahore
+District:Lahore
+Tehsil:Lahore
+Province:Punjab
+Postal Code:54000
+Correspondence Address:597 Huma Block Allama 
+Correspondence City:Lahore
+Correspondence District:Lahore
+Correspondence Tehsil:Lahore
+Correspondence Province:Punjab
+Correspondence Postal Code:54000
+
+Permanent Address:597 huma block
+Area/Colony:huma
+City:l
+District:l
+Tehsil:l
+Province:p
+Postal Code:54
+Correspondence Address:597 huma block
+Correspondence City:l
+Correspondence District:l
+Correspondence Tehsil:l
+Correspondence Province:p
+Correspondence Postal Code:54
+
+Permanent Address:597 huma block
+Area/Colony:iqbal town
+City:lahore
+District:lahore
+Tehsil:lahor
+Province:punjab
+Postal Code:54000
+Correspondence Address:597 huma block
+Correspondence City:lahore
+Correspondence District:lahore
+Correspondence Tehsil:lahor
+Correspondence Province:punjab
+Correspondence Postal Code:54000
+

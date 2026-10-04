@@ -1,0 +1,14 @@
+First Choice Program:BS Computer Science
+Second Choice Program:BS Software Engineering
+Third Choice Program:BS Information Technology
+Preferred Campus:main
+Preferred Shift:morning
+Admission Type:regulr
+
+First Choice Program:BS Computer Science
+Second Choice Program:BS Software Engineering
+Third Choice Program:BS Information Technology
+Preferred Campus:main
+Preferred Shift:morning
+Admission Type:regular
+
